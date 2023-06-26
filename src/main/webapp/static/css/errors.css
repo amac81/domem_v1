@@ -1,0 +1,33 @@
+
+.domemerror label{
+	font-weight: normal !important;
+	font-size: 0.80em;
+}
+
+.domemerror h1 {
+    color: #ff0000;
+    display: inline;
+}
+
+.domemerror h2 {
+    color: #ff0000;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;  
+}
+
+.domemerror img {
+	width: 150px;
+	height: 150px;	
+}
+
+
+.domemerror p {
+  color: #3d8f8f;
+}
+
+.domemerror link
+{
+	color: #ff0000;
+}
+

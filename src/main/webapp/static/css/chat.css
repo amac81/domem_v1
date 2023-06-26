@@ -1,0 +1,66 @@
+.avatar {
+	width:40px;
+	height:40px;
+}
+
+
+input[type="text"] {
+	height : 29px;
+	Vertical-Align: Middle;
+	font-size:11px;
+}
+
+.btn {
+	height: 29px;	
+	font-size:11px;
+}
+
+
+.error {
+	color: #ff0000;
+	font-size:11px;
+}
+
+
+/*Chat room widget*/
+
+.chat-room { 
+	padding: 0;
+	margin: -15px;
+	background: #fff;
+	color: #5f6468;
+}
+
+.sent {
+	background: #b3d9ff;
+}
+
+.received {
+	background: #ffffe6;
+}
+
+
+.chat-room-msg .glyphicon { 
+	margin-right:5px; 
+	color: #9fadbb; 
+}
+
+.chat-room-msg label{
+	font-size: 11px;
+	text-decoration: none;	
+	color: #3d8f8f;
+}
+
+.chat-room-msg {
+	list-style: none;
+	line-height: 0.9;
+	padding: 14px 15px 8px 15px;
+}
+
+.chat-room-msg p{
+	display:inline;
+	color: #ff0000;
+	font-size:11px;
+}
+
+

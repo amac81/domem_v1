@@ -1,0 +1,17 @@
+
+input[type="text"] {
+	height : 29px;
+	Vertical-Align: Middle;
+	font-size:11px;
+}
+
+.btn {
+	height: 29px;	
+	font-size:11px;
+}
+
+
+.error {
+	color: #ff0000;
+	font-size:11px;
+}
